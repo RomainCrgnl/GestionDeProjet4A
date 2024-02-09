@@ -1,4 +1,4 @@
 Ceci est mon fichier.
 L'utilisateur Bis vient de rajouter une ligne.
 
-Modification par l'utilsateur original.
+Modification par l'utilisateur Bis.
