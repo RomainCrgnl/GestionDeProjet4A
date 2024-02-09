@@ -2,3 +2,5 @@ Ceci est mon fichier.
 L'utilisateur Bis vient de rajouter une ligne.
 
 Modification par l'utilisateur Bis.
+
+Modification bis pour le merge.
